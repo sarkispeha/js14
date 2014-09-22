@@ -1,0 +1,17 @@
+.container {
+	height: 100%;
+	width: 100%;
+}
+
+.outer-shell {
+	height: 400px;
+	'width': 650px;
+	backgroundColor: darkgrey;
+	margin: 20%;
+}
+
+.inner-shell {
+	height: 350px;
+	width: 600px;
+	backgroundColor: peachpuff;
+}
