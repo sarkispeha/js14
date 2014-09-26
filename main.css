@@ -55,6 +55,17 @@
 	border-radius: 9px;
 }
 
+.active-pm-indicator {
+	display: none;
+	background: red;
+	position: absolute;
+	top: 25%;
+	left: 2%;
+	height: 1em;
+	width: 1em;
+	border-radius: 9px;
+}
+
 .clock-text {
 	position: absolute;
 	position: absolute;
